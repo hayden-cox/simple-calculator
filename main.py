@@ -1,5 +1,10 @@
 def sum(x, y):
     sum = x+y
     return sum
-    
-print(sum(1, 2))
+
+def sub(x, y):
+    sub = x-y 
+    return sub 
+
+print(sub(10, 5))
+
